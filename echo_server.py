@@ -1,3 +1,6 @@
+# Stella Kim
+# Assignment 2: TCP/IP and Sockets
+
 import socket
 import sys
 import traceback
